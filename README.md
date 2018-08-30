@@ -1,6 +1,10 @@
 # winmips64-paint
 Paint for WinMIPS64 instruction set simulator
 
+<div align="center">
+<img src="https://github.com/vmari/winmips64-paint/blob/master/screenshot.png" />
+</div>
+
 !! Para ejecutar en WinMIPS64 cambiar "Data Adress Bus" a 12 bits (Ctrl+A)
 
 WinMIPS64: http://indigo.ie/~mscott/
